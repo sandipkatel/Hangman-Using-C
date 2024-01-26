@@ -1,2 +1,1 @@
-# SAP
-FOR COLLEGE PROJECTS
+Hangman project made using graphics library in C.
